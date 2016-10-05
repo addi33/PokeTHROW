@@ -1,2 +1,2 @@
 # PokeTHROW 
-A Game Based on some Funny Things, Gen 6 related
+A Game based on Pokémon Trainers battling each other by throwing Pokéballs on the opponent. Game is still in development.
